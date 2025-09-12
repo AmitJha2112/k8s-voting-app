@@ -55,6 +55,17 @@ Achieved seamless scaling and high availability, supporting 99.9% uptime for cri
 This project description emphasizes your role in leveraging AWS EC2, Kubernetes, and Argo CD to optimize application deployment and management processes effectively.
 
 
-### Aapke DevOps Wale Bhaiya
-### [TrainWithShubham](https://www.trainwithshubham.com/)
+## 🛠️ Author & Community  
 
+This project is crafted by **[Amit Kumar Jha](https://github.com/amitjha2112)** 💡.  
+I’d love to hear your feedback! Feel free to share your thoughts.  
+
+📧 **Connect with me:**
+
+- **GitHub**: [amitjha2112](https://github.com/amitjha2112)   
+- **LinkedIn**: [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-55b112216/)  
+
+---
+
+⭐ Support the Project
+If you found this helpful, consider starring ⭐ the repository and sharing it with your network! 🚀
